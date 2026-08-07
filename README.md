@@ -1,110 +1,63 @@
-<!--
-  Ehab | Power BI Developer Portfolio
-  This README serves as a portfolio page on GitHub
--->
-
 <div align="center">
-
-# 🚀 Ehab
-## Power BI Developer & Data Analyst
-
-[![View My Work](#)](#projects)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-
+  
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=250&section=header&text=Ehab%20Makar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Power%20BI%20Developer%20%26%20Data%20Analyst&descAlignY=58&descSize=22" width="100%"/>
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=1E3A8A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Power+BI+Developer;Data+Analyst;DAX+%26+SQL+Expert;8%2B+Years+of+Experience" alt="Typing SVG"/>
+  
+  <br/>
+  <br/>
+  
+  <!-- Social Badges with Icons -->
+  <p>
+    <a href="#projects">
+      <img src="https://img.shields.io/badge/📊-View%20My%20Work-1e3a8a?style=for-the-badge&logo=powerbi&logoColor=white" alt="View My Work"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ehab-makar-3b953a138/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:ehab.makar.2017@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/EhabMakar">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://twitter.com/yourhandle">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://yourportfolio.com">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+  
+  <!-- Profile Views & Stats -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=EhabMakar&color=1e3a8a&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/EhabMakar?style=for-the-badge&color=1e3a8a&label=Followers" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/stars/EhabMakar?style=for-the-badge&color=1e3a8a&label=Total+Stars" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/badge/🚀-Active%20Developer-1e3a8a?style=for-the-badge" alt="Active Developer"/>
+  </p>
+  
 </div>
 
 ---
 
-## 📊 About Me
+<!-- About Me Section with Icon -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" /> **About Me**
 
-I am a **Power BI Developer and Data Analyst** with **8+ years of experience** in Business Intelligence, KPI tracking, and performance optimization. I specialize in DAX, SQL, and data modeling, helping organizations transform raw data into strategic insights that drive real business impact.
-
-> *"Turning data into decisions, one dashboard at a time."*
-
----
-
-## 🛠️ Core Skills
-
-<div align="center">
-
-| **Category** | **Skills** |
-|--------------|------------|
-| **BI & Analytics** | Power BI, DAX, Power Query, M Language |
-| **Data Engineering** | SQL, ETL, Data Modeling, Data Warehousing |
-| **Visualization** | Dashboard Design, KPI Analytics, Performance Metrics |
-| **Automation** | Process Automation, Optimization, Reporting Pipelines |
-| **Tools** | Azure, Excel, Python (Pandas), SSIS |
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-### 📊 Executive KPI Dashboard
-> Built an interactive Power BI dashboard to provide real-time KPI visibility for leadership teams.
-- **Impact:** Reduced manual reporting time by **40%**
-- **Tech:** Power BI, DAX, SQL Server
-- **Key Features:** Real-time refresh, drill-through, conditional formatting
-
-### 📞 Contact Center Analytics
-> Developed performance tracking dashboards for FCR, SLA, and agent productivity.
-- **Impact:** Enabled data-driven coaching decisions
-- **Tech:** Power BI, Power Query, Excel
-- **Key Metrics:** First Call Resolution, Service Level Agreement, Agent Productivity
-
-### 💰 Financial Performance Dashboard
-> Automated financial reporting through integrated data models and optimized DAX measures.
-- **Impact:** Improved reporting accuracy by **30%**
-- **Tech:** Power BI, DAX, SQL, Azure Data Factory
-- **Features:** Automated data pipeline, variance analysis, forecast modeling
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-## 🏆 Certifications & Achievements
-
-- ✅ **Microsoft Certified: Power BI Data Analyst** (PL-300)
-- ✅ **Microsoft Certified: Azure Data Fundamentals**
-- ✅ **Certified Business Intelligence Professional**
-- 🏅 **Best Dashboard Award** - Company Hackathon 2025
-- 📝 **Speaker** at Data Analytics Conference 2024
-
----
-
-## 📊 My Development Stack
-
-```mermaid
-graph LR
-    A[Power BI] --> B[DAX]
-    A --> C[Power Query]
-    D[SQL] --> E[Data Modeling]
-    F[Python] --> G[Data Analysis]
-    H[Azure] --> I[Cloud Solutions]
-    J[Excel] --> K[Advanced Analytics]
+```python
+class PowerBIDeveloper:
+    def __init__(self):
+        self.name = "Ehab Makar"
+        self.role = "Power BI Developer & Data Analyst"
+        self.experience = "8+ years"
+        self.specialties = ["DAX", "SQL", "Data Modeling", "KPI Tracking"]
+        self.mission = "Turning raw data into strategic insights"
+        self.email = "ehab.makar.2017@gmail.com"
+        self.linkedin = "https://www.linkedin.com/in/ehab-makar-3b953a138/"
+        self.location = "🌍 Available Worldwide"
+        self.hobbies = ["Data Visualization", "Chess", "Reading"]
+    
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile! 🚀")
